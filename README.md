@@ -22,5 +22,6 @@ Before I learned how to code and how the brain worked, I was but a young boy loo
 
 ### School Projects
 * [CS 345 Machine Learning Final Project](https://github.com/J0hnatan/CS-345-Final-Project)
+* [CS 370 Operating Systems Final Project](https://github.com/J0hnatan/CS-370-Final-Project)
 ### Personal Projects
 
