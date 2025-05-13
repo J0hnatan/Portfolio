@@ -13,7 +13,9 @@ Before I learned how to code and how the brain worked, I was but a young boy loo
 * [LinkedIn](https://www.linkedin.com/in/jonathan-ibarra-01/)
 
 ### Relevant Skills  
-
+* Java
+* C++
+* Python
 ### Resume
 
 ## Projects
