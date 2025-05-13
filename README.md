@@ -1,5 +1,5 @@
 # Jonathan Ibarra
-Image of me  
+!()[Portfolio/Images/IMG_2769.jpg] 
 *Image of me*  
 
 ## About me  
