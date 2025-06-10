@@ -17,7 +17,7 @@ Before I learned how to code and how the brain worked, I was but a young boy loo
 * C++
 * Python
 ### Resume
-[Resume](Jonathan_Ibarra_Resume.pdf)
+[Resume](Jonathan_Ibarra_Resume.docx)
 
 ## School Projects
 * [CS 345 Machine Learning Final Project](https://github.com/J0hnatan/CS-345-Final-Project)
